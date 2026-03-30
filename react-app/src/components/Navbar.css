@@ -1,0 +1,11 @@
+.Navbar{
+  background-color: #333;
+  padding: 1rem;
+    color: white;
+}
+.Navbar ul{
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-evenly;
+}
